@@ -54,7 +54,7 @@
 > 
 > \<读福音后感(Dú fúyīn hòu gǎn)>
 > 
-> 托尔|斯泰兮伟文雄 (Tuō ěr sī tài xī wěi wénxióng) \
+> 托尔斯泰兮伟文雄 (Tuō ěr sī tài xī wěi wénxióng) \
 > 苦寻道兮孤乱童 (Kǔ xún dào xī gū luàn tóng) \
 > 吾顾身兮迷若梦 (Wú gù shēn xī mí ruò mèng) \
 > 从旅程兮弱相同 (Cóng lǚchéng xī ruò xiāngtóng)
