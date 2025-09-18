@@ -38,31 +38,39 @@
 
 톨스토이의 신앙관이 정말로 궁금한 독자라면 '산상수훈'까지만 읽어도 충분할 것이다. 기독교 교리에서 과학적으로 설명이 불가능한 부분은 모두 제거했기에, 그 이후는 동어반복에 불과하다.
 
-> <복음서를 읽고> \
-> \
+> \<복음서를 읽고>
+> 
 > 그토록 위대한 톨스토이 \
 > 그렇게 연약한 아이 같은 \
 > 그 길에 나 또한 서있나 \
 > 그렇게 나 또한 연약하게
 
-> <讀福音後感/读福音后感(독복음후감, Dú fúyīn hòu gǎn)> \
-> \
-> 托斯泰子偉文豪/托斯泰子伟文豪(탁사태자위문호, Tuō sī tàizǐ wěi wénháo) \
-> 索道探神孤亂童/索道探神孤乱童(색도탐신고란동, Suǒdào tàn shén gū luàn tóng) \
-> 後學從先如不異/后学从先如不异(후학종선여불이, Hòu xué cóng xiān rú bù yì) \
-> 若師軟弱獨相同/若师软弱独相同(약사연약독상동, Ruò shī ruǎnruò dú xiāngtóng)
+> \<讀福音後感 (독복음후감)>
+> 
+> 托爾斯泰兮偉文雄 (탁이사태혜위문웅) \
+> 苦尋道兮孤亂童 (고심도혜고란동) \
+> 吾顧身兮迷若夢 (오고신혜미약몽) \
+> 從旅程兮弱相同 (종려정혜약상동)
+> 
+> \<读福音后感(Dú fúyīn hòu gǎn)>
+> 
+> 托尔|斯泰兮伟文雄 (Tuō ěr sī tài xī wěi wénxióng) \
+> 苦寻道兮孤乱童 (Kǔ xún dào xī gū luàn tóng) \
+> 吾顾身兮迷若梦 (Wú gù shēn xī mí ruò mèng) \
+> 从旅程兮弱相同 (Cóng lǚchéng xī ruò xiāngtóng)
 
-> \<After reading the Gospel> \
-> \
+> \<After reading the Gospel>
+> 
 > Such a great writer Tolstoy, \
 > I saw an eager but weak boy. \
 > My own path is the same, a broken node. \
 > Now I stand with his weakness on his road.
 
 ---
-# Gemini와 토론
+# AI와 토론
 
-* Model: 2.5 Pro
+* Model: Gemini 2.5 Pro
+* 기간: 2025-08-20 ~ 2025-09-08
 
 독서 중 AI와 토론한 내용을 첨부합니다. AI의 답변이 100% 정확하지는 않으므로 참고로만 사용하시기 바랍니다.
 
