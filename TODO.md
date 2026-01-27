@@ -47,3 +47,5 @@
 * [양자경의 더 모든 날 모든 순간/Everything Everywhere All at Once, 다니엘 콴, 2022](https://namu.wiki/w/%EC%97%90%EB%B8%8C%EB%A6%AC%EC%94%BD%20%EC%97%90%EB%B8%8C%EB%A6%AC%EC%9B%A8%EC%96%B4%20%EC%98%AC%20%EC%95%B3%20%EC%9B%90%EC%8A%A4)
 * 페어웰, 마이 퀸 (Farewell, My Queen), 2012
 
+
+스토리텔링 애니멀 - 조너선 갓셜
