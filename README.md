@@ -10,6 +10,7 @@
 * [살아남는 스토리는 무엇이 다른가](completed/2025/caligari-writing-a-compelling-story.md) - 전혜정 (2025-09-22 ~ 2025-09-25)
 * [신화의 힘](completed/2026/campbell-the-power-of-myth.md) - 조지프 켐벨 (2025-09-26 ~ 2026-01-19)
 * [천의 영웅을 가진 영웅](completed/2026/campbell-the-hero-with-a-thousand-faces.md) - 조지프 캠벨 (2026-01-21 ~ 2026-01-28, 중도하차)
+* [스토리텔링 애니멀](completed/2026/gottschall-the-storytelling-animal.md) - 조너선 갓셜 (2026-01-28 ~ 2026-02-09)
 
 ## 읽는 책들
 

@@ -12,3 +12,16 @@
 * (en, 원제) The Storytelling Animal: How Stories Make Us Human
 * (ko) 스토리텔링 애니멀
 
+## 소개
+
+## 감상
+
+
+---
+# AI와 토론
+
+* Model: Gemini 3 Pro (2026-01-28 ~ 2026-02-09)
+
+독서 중 AI와 토론한 내용을 첨부합니다. AI의 답변이 100% 정확하지는 않으므로 참고로만 사용하시기 바랍니다.
+
+---
