@@ -17,4 +17,6 @@
 * [카라마조프가의 형제들](reading/dostoevsky-the-brothers-karamazov.md) - 도스토옙스키 (2025-09-09 ~ )
 * [알기쉬운 기초 드로잉](reading/loomis-fun-with-a-pencil.md) - 앤드류 루미스 (2025-09-18 ~ )
 * [차라투스트라는 이렇게 말했다](nietzsche-thus-spoke-zarathustra) - 프리드리히 니체 (2025-10-02 ~ )
+* [이야기의 탄생](reading/storr-the-science-of-storytelling.md) - 윌 스토 (2026-02-11 ~)
+
 ## [읽을 책들](TODO.md)
