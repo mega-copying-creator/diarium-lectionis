@@ -11,13 +11,13 @@
 * [신화의 힘](completed/2026/campbell-the-power-of-myth.md) - 조지프 켐벨 (2025-09-26 ~ 2026-01-19)
 * [천의 영웅을 가진 영웅](completed/2026/campbell-the-hero-with-a-thousand-faces.md) - 조지프 캠벨 (2026-01-21 ~ 2026-01-28, 중도하차)
 * [스토리텔링 애니멀](completed/2026/gottschall-the-storytelling-animal.md) - 조너선 갓셜 (2026-01-28 ~ 2026-02-09)
+* [이야기의 탄생](completed/2026/storr-the-science-of-storytelling.md) - 윌 스토 (2026-02-11 ~ 2026-03-17)
 
 ## 읽는 책들
 
 * [카라마조프가의 형제들](reading/dostoevsky-the-brothers-karamazov.md) - 도스토옙스키 (2025-09-09 ~ )
 * [알기쉬운 기초 드로잉](reading/loomis-fun-with-a-pencil.md) - 앤드류 루미스 (2025-09-18 ~ )
 * [차라투스트라는 이렇게 말했다](nietzsche-thus-spoke-zarathustra) - 프리드리히 니체 (2025-10-02 ~ )
-* [이야기의 탄생](reading/storr-the-science-of-storytelling.md) - 윌 스토 (2026-02-11 ~)
 * [모두의 타로](reading/hayertz-tarot-for-beginners.md) - 맥 헤이어츠 (2026-02-20 ~)
 
 ## [읽을 책들](TODO.md)
