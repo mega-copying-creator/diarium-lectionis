@@ -19,5 +19,6 @@
 * [알기쉬운 기초 드로잉](reading/loomis-fun-with-a-pencil.md) - 앤드류 루미스 (2025-09-18 ~ )
 * [차라투스트라는 이렇게 말했다](nietzsche-thus-spoke-zarathustra) - 프리드리히 니체 (2025-10-02 ~ )
 * [모두의 타로](reading/hayertz-tarot-for-beginners.md) - 맥 헤이어츠 (2026-02-20 ~)
+* [그레이의 50가지 그림자](reading/eljames-fifty-shades-of-grey.md) - E. L. 제임스 (2026-03-18 ~ )
 
 ## [읽을 책들](TODO.md)
