@@ -12,3 +12,18 @@
 * (en, 원제) Story: Substance, Structure, Style and the Principles of Screenwriting
 * (ko) 로버트 맥키의 스토리: 시나리오 어떻게 쓸 것인가
 
+## 소개
+
+
+## 감상
+
+
+
+---
+# AI와 토론
+
+* Model: Gemini 3.1 Pro (2026-04-03 ~ )
+
+독서 중 AI와 토론한 내용을 첨부합니다. AI의 답변이 100% 정확하지는 않으므로 참고로만 사용하시기 바랍니다.
+
+---
