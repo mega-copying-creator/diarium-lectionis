@@ -18,6 +18,9 @@
 ## 감상
 
 
+## 요약
+
+[요약 정리](mackee-story-summary.md)
 
 ---
 # AI와 토론
