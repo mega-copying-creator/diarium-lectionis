@@ -39,6 +39,15 @@
 * 두 도시 이야기 (A Tale of Two Cities) - 찰스 디킨스
 * 어느 하녀의 일기 (The Diary of a Chambermaid) - 옥타브 미르보
 
+### 프랑스 그래픽 노블(Bande Dessinée)
+
+* 니코폴 삼부작 (La Trilogie Nikopol) - 엥키 빌랄(Enki Bilal)
+* 설국열차(Le Transperceneige)
+* 잉칼 (L'Incal) - 뫼비우스(Moebius)
+* 블라스트 (Blast) - 마뉘 라르세네(Manu Larcenet)
+* 아라라트의 사진사 - 에마뉘엘 기베르
+* 알랭의 전쟁 - 에마뉘엘 기베르
+
 ## 철학
 
 * 스피노자의 철학 - 강신주
